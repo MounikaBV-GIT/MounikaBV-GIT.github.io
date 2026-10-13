@@ -1,6 +1,6 @@
 # Hi, I'm Mounika BV 👋
 
-### Python Developer | Django Full Stack Developer
+### Python Developer | Django Full Stack Developer |Full stack developer
 
 I'm an engineering graduate passionate about building web applications using Python and Django. I enjoy solving problems, learning new technologies, and developing practical projects. I'm currently looking for entry-level opportunities where I can contribute my skills and grow as a software developer.
 
